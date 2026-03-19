@@ -5,10 +5,6 @@
 
 ---
 
-<p align="center">
-  <img alt="repo" src="https://raw.githubusercontent.com/rishwebb/Repository-Counter/main/.github/repo-illustration.png" width="420" onerror="this.style.display='none'" />
-</p>
-
 ## ✨ What this is
 
 `Repository Counter` is a tiny, practical Python utility that fetches and summarizes a GitHub user's repositories — grouped into Public and Private lists — using the GitHub REST API. It handles pagination, sorts results alphabetically, and prints a clean, copy-friendly summary.
